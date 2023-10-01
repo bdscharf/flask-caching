@@ -30,8 +30,6 @@ pluggy==1.0.0
     # via pytest
 psutil==5.9.1
     # via pytest-xprocess
-py==1.11.0
-    # via pytest-xprocess
 pylibmc==1.6.3
     # via -r tests.in
 pyparsing==3.0.9
@@ -43,7 +41,7 @@ pytest==7.3.1
     #   pytest-xprocess
 pytest-asyncio==0.21.0
     # via -r tests.in
-pytest-xprocess==0.22.2
+pytest-xprocess==0.23.0
     # via -r tests.in
 redis==4.5.4
     # via -r tests.in
